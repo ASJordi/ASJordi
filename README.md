@@ -94,10 +94,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ordenar un arreglo de objetos por propiedad en JavaScript](https://dev.to/asjordi/ordenar-un-arreglo-de-objetos-por-propiedad-en-javascript-4h87)
 - [Cómo configurar un entorno virtual en Python](https://dev.to/asjordi/como-configurar-un-entorno-virtual-en-python-5ggh)
 - [Notificaciones de Windows con Python](https://dev.to/asjordi/notificaciones-de-windows-con-python-5cdk)
 - [Icono de la Bandeja del Sistema en Python](https://dev.to/asjordi/icono-de-la-bandeja-del-sistema-en-python-4b60)
-- [Configurar llave SSH en GitHub desde Windows](https://dev.to/asjordi/configurar-llave-ssh-en-github-desde-windows-4h6i)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
