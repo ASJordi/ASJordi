@@ -94,10 +94,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
 - [Ordenar un arreglo de objetos por propiedad en JavaScript](https://dev.to/asjordi/ordenar-un-arreglo-de-objetos-por-propiedad-en-javascript-4h87)
 - [Cómo configurar un entorno virtual en Python](https://dev.to/asjordi/como-configurar-un-entorno-virtual-en-python-5ggh)
 - [Notificaciones de Windows con Python](https://dev.to/asjordi/notificaciones-de-windows-con-python-5cdk)
-- [Icono de la Bandeja del Sistema en Python](https://dev.to/asjordi/icono-de-la-bandeja-del-sistema-en-python-4b60)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
