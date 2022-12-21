@@ -94,10 +94,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo evitar bucles anidados en JavaScript](https://dev.to/asjordi/como-evitar-bucles-anidados-en-javascript-50b7)
 - [Cómo Utilizar Variables de Entorno en Python](https://dev.to/asjordi/como-utilizar-variables-de-entorno-en-python-4pk0)
 - [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
 - [Ordenar un arreglo de objetos por propiedad en JavaScript](https://dev.to/asjordi/ordenar-un-arreglo-de-objetos-por-propiedad-en-javascript-4h87)
-- [Cómo configurar un entorno virtual en Python](https://dev.to/asjordi/como-configurar-un-entorno-virtual-en-python-5ggh)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
