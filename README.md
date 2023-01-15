@@ -1,6 +1,22 @@
 <h1 align="center">Hello 🌎, I'm Jordi!</h1>
 <h3 align="center">I am a passionate Engineer and Developer from Mexico ✌️</h3>
 
+<div align="center">
+
+  <a href="https://twitter.com/asjordi" target="_blank">
+    <img src=https://img.shields.io/badge/Twitter-%2300acee.svg?&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://linkedin.com/in/asjordi" target="_blank">
+    <img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg?&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://dev.to/asjordi" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+
+</div>
+
 - 🔭 I am currently looking for a job!
 
 - 📘 Always learning something new.
@@ -14,18 +30,6 @@
 - 📝 I regularly write articles on [Dev.to](https://dev.to/asjordi)
 
 - 🌱 I’m currently learning **React, Bootstrap, TypeScript**
-
-<br>
-
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/asjordi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asjordi" height="30" width="40" /></a>
-  <a href="https://twitter.com/asjordi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asjordi" height="30" width="40" /></a>
-  <a href="https://dev.to/asjordi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asjordi" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/18219549" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18219549" height="30" width="40" /></a>
-</p>
-
-<p align="center"> <a href="https://twitter.com/asjordi" target="_blank"><img src="https://img.shields.io/twitter/follow/asjordi?logo=twitter&style=for-the-badge" alt="asjordi" /></a></p>
 
 <br>
 
