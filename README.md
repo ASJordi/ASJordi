@@ -108,8 +108,8 @@
 
 ### 📈 Stats:
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asjordi&show_icons=true&locale=en" alt="asjordi"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asjordi&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="asjordi"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjordi&" alt="asjordi"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asjordi&show_icons=true&locale=en&layout=compact" alt="asjordi"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asjordi&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="asjordi"/></p>
