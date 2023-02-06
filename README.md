@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendiendo las funciones Map, Filter &amp; Reduce](https://dev.to/asjordi/entendiendo-las-funciones-map-filter-reduce-5efp)
 - [Shortcuts HTML en Visual Studio Code](https://dev.to/asjordi/shortcuts-html-en-visual-studio-code-36pa)
 - [Cómo evitar bucles anidados en JavaScript](https://dev.to/asjordi/como-evitar-bucles-anidados-en-javascript-50b7)
 - [Cómo Utilizar Variables de Entorno en Python](https://dev.to/asjordi/como-utilizar-variables-de-entorno-en-python-4pk0)
-- [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
