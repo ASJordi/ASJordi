@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comandos esenciales de Git](https://dev.to/asjordi/comandos-esenciales-de-git-2alg)
 - [¿Cómo comparar el contenido de dos repositorios usando Git?](https://dev.to/asjordi/como-comparar-el-contenido-de-dos-repositorios-usando-git-24mk)
 - [Primeros pasos con bucles en JavaScript](https://dev.to/asjordi/primeros-pasos-con-bucles-en-javascript-3149)
 - [Entendiendo las funciones Map, Filter &amp; Reduce](https://dev.to/asjordi/entendiendo-las-funciones-map-filter-reduce-5efp)
-- [Shortcuts HTML en Visual Studio Code](https://dev.to/asjordi/shortcuts-html-en-visual-studio-code-36pa)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
