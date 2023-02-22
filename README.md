@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desestructurar objetos en JavaScript](https://dev.to/asjordi/desestructurar-objetos-en-javascript-22h4)
 - [Comandos básicos de NPM](https://dev.to/asjordi/comandos-basicos-de-npm-2hl8)
 - [Comandos esenciales de Git](https://dev.to/asjordi/comandos-esenciales-de-git-2alg)
 - [¿Cómo comparar el contenido de dos repositorios usando Git?](https://dev.to/asjordi/como-comparar-el-contenido-de-dos-repositorios-usando-git-24mk)
-- [Primeros pasos con bucles en JavaScript](https://dev.to/asjordi/primeros-pasos-con-bucles-en-javascript-3149)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
