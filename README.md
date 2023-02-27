@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo comprobar si el usuario está en línea con JavaScript](https://dev.to/asjordi/como-comprobar-si-el-usuario-esta-en-linea-con-javascript-5878)
 - [Desestructurar objetos en JavaScript](https://dev.to/asjordi/desestructurar-objetos-en-javascript-22h4)
 - [Comandos básicos de NPM](https://dev.to/asjordi/comandos-basicos-de-npm-2hl8)
 - [Comandos esenciales de Git](https://dev.to/asjordi/comandos-esenciales-de-git-2alg)
-- [¿Cómo comparar el contenido de dos repositorios usando Git?](https://dev.to/asjordi/como-comparar-el-contenido-de-dos-repositorios-usando-git-24mk)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
