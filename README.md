@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deshacer cambios en Git](https://dev.to/asjordi/deshacer-cambios-en-git-31le)
 - [Cómo cambiar el último mensaje de commit](https://dev.to/asjordi/como-cambiar-el-ultimo-mensaje-de-commit-hc6)
 - [Crear modal de diálogo nativo con HTML](https://dev.to/asjordi/crear-modal-de-dialogo-nativo-con-html-dei)
 - [Obtener el valor mínimo y máximo de un array de arrays en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-arrays-en-javascript-kjk)
-- [Obtener el valor mínimo y máximo de un array de objetos en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-objetos-en-javascript-2066)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
