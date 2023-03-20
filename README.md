@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Remover vocales de un String con JavaScript](https://dev.to/asjordi/remover-vocales-de-un-string-con-javascript-4lbh)
 - [Deshacer cambios en Git](https://dev.to/asjordi/deshacer-cambios-en-git-31le)
 - [Cómo cambiar el último mensaje de commit](https://dev.to/asjordi/como-cambiar-el-ultimo-mensaje-de-commit-hc6)
 - [Crear modal de diálogo nativo con HTML](https://dev.to/asjordi/crear-modal-de-dialogo-nativo-con-html-dei)
-- [Obtener el valor mínimo y máximo de un array de arrays en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-arrays-en-javascript-kjk)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
