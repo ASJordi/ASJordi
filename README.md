@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Condicionales sin else en JavaScript](https://dev.to/asjordi/condicionales-sin-else-en-javascript-1de3)
 - [Aprende a utilizar el operador ternario en JavaScript](https://dev.to/asjordi/aprende-a-utilizar-el-operador-ternario-en-javascript-48go)
 - [Remover vocales de un String con JavaScript](https://dev.to/asjordi/remover-vocales-de-un-string-con-javascript-4lbh)
 - [Deshacer cambios en Git](https://dev.to/asjordi/deshacer-cambios-en-git-31le)
-- [Cómo cambiar el último mensaje de commit](https://dev.to/asjordi/como-cambiar-el-ultimo-mensaje-de-commit-hc6)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
