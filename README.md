@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Insertar elementos en un índice específico de un array en JavaScript](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
 - [Condicionales sin else en JavaScript](https://dev.to/asjordi/condicionales-sin-else-en-javascript-1de3)
 - [Aprende a utilizar el operador ternario en JavaScript](https://dev.to/asjordi/aprende-a-utilizar-el-operador-ternario-en-javascript-48go)
 - [Remover vocales de un String con JavaScript](https://dev.to/asjordi/remover-vocales-de-un-string-con-javascript-4lbh)
-- [Deshacer cambios en Git](https://dev.to/asjordi/deshacer-cambios-en-git-31le)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
