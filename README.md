@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Eliminar archivo .env del historial de Git](https://dev.to/asjordi/eliminar-archivo-env-del-historial-de-git-3f68)
 - [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
 - [Operador de encadenamiento opcional en JavaScript](https://dev.to/asjordi/operador-de-encadenamiento-opcional-en-javascript-4dj0)
 - [Insertar elementos en un índice específico de un array en JavaScript](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
-- [Condicionales sin else en JavaScript](https://dev.to/asjordi/condicionales-sin-else-en-javascript-1de3)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
