@@ -98,10 +98,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Cómo evitar bucles anidados en JavaScript](https://dev.to/asjordi/como-evitar-bucles-anidados-en-javascript-50b7)
-- [Cómo Utilizar Variables de Entorno en Python](https://dev.to/asjordi/como-utilizar-variables-de-entorno-en-python-4pk0)
-- [Comparar dos Objetos en JavaScript](https://dev.to/asjordi/comparar-dos-objetos-en-javascript-3bmk)
-- [Ordenar un arreglo de objetos por propiedad en JavaScript](https://dev.to/asjordi/ordenar-un-arreglo-de-objetos-por-propiedad-en-javascript-4h87)
+- [Eliminar archivo .env del historial de Git](https://dev.to/asjordi/eliminar-archivo-env-del-historial-de-git-3f68)
+- [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
+- [Operador de encadenamiento opcional en JavaScript](https://dev.to/asjordi/operador-de-encadenamiento-opcional-en-javascript-4dj0)
+- [Insertar elementos en un índice específico de un array en JavaScript](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
