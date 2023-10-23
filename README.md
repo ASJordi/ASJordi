@@ -96,7 +96,7 @@
 
 <br>
 
-### 📝 Blogs posts
+### 📝 Posts
 <!-- BLOG-POST-LIST:START -->
 - [Eliminar archivo .env del historial de Git](https://dev.to/asjordi/eliminar-archivo-env-del-historial-de-git-3f68)
 - [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
@@ -107,9 +107,5 @@
 <br>
 
 ### 📈 Stats:
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asjordi&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="asjordi"/></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asjordi&" alt="asjordi"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asjordi&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="asjordi"/></p>
