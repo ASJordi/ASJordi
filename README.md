@@ -86,9 +86,9 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ASJordi&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJordi&layout=compact&hide_border=true&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ASJordi&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ASJordi&theme=nightowl&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJordi&layout=compact&theme=nightowl&hide_border=true&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ASJordi&theme=dark&hide_border=true">
 </p>
 
 <p align="center">
