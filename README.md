@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Records en Java: qué son y cómo utilizarlos](https://dev.to/asjordi/records-en-java-que-son-y-como-utilizarlos-364)
 - [Eliminar archivo .env del historial de Git](https://dev.to/asjordi/eliminar-archivo-env-del-historial-de-git-3f68)
 - [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
 - [Operador de encadenamiento opcional en JavaScript](https://dev.to/asjordi/operador-de-encadenamiento-opcional-en-javascript-4dj0)
-- [Insertar elementos en un índice específico de un array en JavaScript](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
