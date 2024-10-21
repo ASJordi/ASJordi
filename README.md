@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Setters en un Record en Java](https://dev.to/asjordi/setters-en-un-record-en-java-4fb6)
 - [Records vs Clases en Java](https://dev.to/asjordi/records-vs-clases-en-java-1bb6)
 - [Records en Java: qué son y cómo utilizarlos](https://dev.to/asjordi/records-en-java-que-son-y-como-utilizarlos-364)
 - [Eliminar archivo .env del historial de Git](https://dev.to/asjordi/eliminar-archivo-env-del-historial-de-git-3f68)
-- [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
