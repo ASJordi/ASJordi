@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sealed Classes en Java](https://dev.to/asjordi/sealed-classes-en-java-1anp)
 - [var en Java](https://dev.to/asjordi/var-en-java-222m)
 - [Setters en un Record en Java](https://dev.to/asjordi/setters-en-un-record-en-java-4fb6)
 - [Records vs Clases en Java](https://dev.to/asjordi/records-vs-clases-en-java-1bb6)
-- [Records en Java: qué son y cómo utilizarlos](https://dev.to/asjordi/records-en-java-que-son-y-como-utilizarlos-364)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
