@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [El bloque finally en Java](https://dev.to/asjordi/el-bloque-finally-en-java-3pba)
 - [¿Cómo calcular el máximo y mínimo en Java usando Streams?](https://dev.to/asjordi/como-calcular-el-maximo-y-minimo-en-java-usando-streams-2fca)
 - [¿Cómo funciona Comparator en Java?](https://dev.to/asjordi/como-funciona-comparator-en-java-2lfg)
 - [¿Cómo usar la clase Properties en Java?](https://dev.to/asjordi/como-usar-la-clase-properties-en-java-eon)
-- [Sealed Classes en Java](https://dev.to/asjordi/sealed-classes-en-java-1anp)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
