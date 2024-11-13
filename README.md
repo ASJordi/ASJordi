@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Utilizar datos de prueba en Java con DataFaker](https://dev.to/asjordi/utilizar-datos-de-prueba-en-java-con-datafaker-3f2j)
 - [El bloque finally en Java](https://dev.to/asjordi/el-bloque-finally-en-java-3pba)
 - [¿Cómo calcular el máximo y mínimo en Java usando Streams?](https://dev.to/asjordi/como-calcular-el-maximo-y-minimo-en-java-usando-streams-2fca)
 - [¿Cómo funciona Comparator en Java?](https://dev.to/asjordi/como-funciona-comparator-en-java-2lfg)
-- [¿Cómo usar la clase Properties en Java?](https://dev.to/asjordi/como-usar-la-clase-properties-en-java-eon)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
