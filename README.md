@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
 - [¿Para qué sirve el modificador static en Java?](https://dev.to/asjordi/para-que-sirve-el-modificador-static-en-java-17hi)
 - [¿Para qué sirve @Override en Java?](https://dev.to/asjordi/para-que-sirve-override-en-java-4ka9)
 - [Funciones variádicas en Java](https://dev.to/asjordi/funciones-variadicas-en-java-41jp)
-- [Utilizar datos de prueba en Java con DataFaker](https://dev.to/asjordi/utilizar-datos-de-prueba-en-java-con-datafaker-3f2j)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
