@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [import static en Java](https://dev.to/asjordi/import-static-en-java-1gb3)
 - [¿Cómo usar Optional en Java?](https://dev.to/asjordi/como-usar-optional-en-java-18kf)
 - [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
 - [¿Para qué sirve el modificador static en Java?](https://dev.to/asjordi/para-que-sirve-el-modificador-static-en-java-17hi)
-- [¿Para qué sirve @Override en Java?](https://dev.to/asjordi/para-que-sirve-override-en-java-4ka9)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
