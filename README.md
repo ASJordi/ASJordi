@@ -98,10 +98,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo clonar una máquina virtual en Azure?](https://dev.to/asjordi/como-clonar-una-maquina-virtual-en-azure-13hf)
 - [Cómo instalar el OpenJDK de Java en Windows](https://dev.to/asjordi/como-instalar-el-openjdk-de-java-en-windows-46mn)
 - [import static en Java](https://dev.to/asjordi/import-static-en-java-1gb3)
 - [¿Cómo usar Optional en Java?](https://dev.to/asjordi/como-usar-optional-en-java-18kf)
-- [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
