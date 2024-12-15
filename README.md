@@ -95,6 +95,10 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=ASJordi"/>
 </p>
 
+<div align="center">
+	<img src="https://www.codewars.com/users/asjordi/badges/large" />
+</div>
+
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
