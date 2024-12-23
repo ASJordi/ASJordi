@@ -102,10 +102,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo instalar el JDK de Java usando Temurin en Windows](https://dev.to/asjordi/como-instalar-el-jdk-de-java-usando-temurin-en-windows-30kj)
 - [Cómo subir imágenes de Docker a Azure Container Registry](https://dev.to/asjordi/como-subir-imagenes-de-docker-a-azure-container-registry-2nc5)
 - [Try with resources en Java](https://dev.to/asjordi/try-with-resources-en-java-335e)
 - [¿Cómo clonar una máquina virtual en Azure?](https://dev.to/asjordi/como-clonar-una-maquina-virtual-en-azure-13hf)
-- [Cómo instalar el OpenJDK de Java en Windows](https://dev.to/asjordi/como-instalar-el-openjdk-de-java-en-windows-46mn)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
