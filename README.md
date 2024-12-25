@@ -102,10 +102,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Para qué sirve String[] args en el método main de Java?](https://dev.to/asjordi/para-que-sirve-string-args-en-el-metodo-main-de-java-1j4k)
 - [Cómo instalar el JDK de Java usando Temurin en Windows](https://dev.to/asjordi/como-instalar-el-jdk-de-java-usando-temurin-en-windows-30kj)
 - [Cómo subir imágenes de Docker a Azure Container Registry](https://dev.to/asjordi/como-subir-imagenes-de-docker-a-azure-container-registry-2nc5)
 - [Try with resources en Java](https://dev.to/asjordi/try-with-resources-en-java-335e)
-- [¿Cómo clonar una máquina virtual en Azure?](https://dev.to/asjordi/como-clonar-una-maquina-virtual-en-azure-13hf)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
