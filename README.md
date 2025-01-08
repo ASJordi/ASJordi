@@ -97,10 +97,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Proyecto Lombok en Java](https://dev.to/asjordi/proyecto-lombok-en-java-10ja)
 - [Desplegar un contenedor de Docker desde Azure Container Registry en una WebApp](https://dev.to/asjordi/desplegar-un-contenedor-de-docker-desde-azure-container-registry-en-una-webapp-4nmm)
 - [¿Qué son los enums en Java?](https://dev.to/asjordi/que-son-los-enums-en-java-37l5)
 - [¿Para qué sirve String[] args en el método main de Java?](https://dev.to/asjordi/para-que-sirve-string-args-en-el-metodo-main-de-java-1j4k)
-- [Cómo instalar el JDK de Java usando Temurin en Windows](https://dev.to/asjordi/como-instalar-el-jdk-de-java-usando-temurin-en-windows-30kj)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
