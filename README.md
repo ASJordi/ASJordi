@@ -97,10 +97,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Configurar servidor de archivos local con Ubuntu y Samba](https://dev.to/asjordi/configurar-servidor-de-archivos-local-con-ubuntu-y-samba-4o4j)
 - [Proyecto Lombok en Java](https://dev.to/asjordi/proyecto-lombok-en-java-10ja)
 - [Desplegar un contenedor de Docker desde Azure Container Registry en una WebApp](https://dev.to/asjordi/desplegar-un-contenedor-de-docker-desde-azure-container-registry-en-una-webapp-4nmm)
 - [¿Qué son los enums en Java?](https://dev.to/asjordi/que-son-los-enums-en-java-37l5)
-- [¿Para qué sirve String[] args en el método main de Java?](https://dev.to/asjordi/para-que-sirve-string-args-en-el-metodo-main-de-java-1j4k)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
