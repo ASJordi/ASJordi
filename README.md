@@ -97,10 +97,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo mapear objetos en Java con MapStruct](https://dev.to/asjordi/como-mapear-objetos-en-java-con-mapstruct-5bg)
 - [JShell: Un REPL para Java](https://dev.to/asjordi/jshell-un-repl-para-java-3ik1)
 - [Desplegar contenedores de Docker en un VPS con Ubuntu, Nginx y Certbot](https://dev.to/asjordi/desplegar-contenedores-de-docker-en-un-vps-con-ubuntu-nginx-y-certbot-4de5)
 - [Clases anónimas en Java](https://dev.to/asjordi/clases-anonimas-en-java-44cp)
-- [Configurar servidor de archivos local con Ubuntu y Samba](https://dev.to/asjordi/configurar-servidor-de-archivos-local-con-ubuntu-y-samba-4o4j)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
