@@ -100,10 +100,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Interfaces funcionales en Java](https://dev.to/asjordi/interfaces-funcionales-en-java-9le)
 - [Variables atómicas en Java](https://dev.to/asjordi/variables-atomicas-en-java-ale)
 - [Pasar funciones lambda como argumentos de métodos en Java](https://dev.to/asjordi/pasar-funciones-lambda-como-argumentos-de-metodos-en-java-5674)
 - [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
-- [Cómo mapear objetos en Java con MapStruct](https://dev.to/asjordi/como-mapear-objetos-en-java-con-mapstruct-5bg)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
