@@ -100,10 +100,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Clases anidadas en Java](https://dev.to/asjordi/clases-anidadas-en-java-48ih)
 - [Switch Expression en Java](https://dev.to/asjordi/switch-expression-en-java-3ak9)
 - [Referencias de métodos en Java](https://dev.to/asjordi/referencias-de-metodos-en-java-2gof)
 - [Interfaces funcionales en Java](https://dev.to/asjordi/interfaces-funcionales-en-java-9le)
-- [Variables atómicas en Java](https://dev.to/asjordi/variables-atomicas-en-java-ale)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
