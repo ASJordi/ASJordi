@@ -100,10 +100,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Pattern Matching en Java](https://dev.to/asjordi/pattern-matching-en-java-3fb2)
 - [Clases anidadas en Java](https://dev.to/asjordi/clases-anidadas-en-java-48ih)
 - [Switch Expression en Java](https://dev.to/asjordi/switch-expression-en-java-3ak9)
 - [Referencias de métodos en Java](https://dev.to/asjordi/referencias-de-metodos-en-java-2gof)
-- [Interfaces funcionales en Java](https://dev.to/asjordi/interfaces-funcionales-en-java-9le)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
