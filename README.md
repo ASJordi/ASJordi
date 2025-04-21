@@ -100,10 +100,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo refactorizar bucles for a IntStream en Java](https://dev.to/asjordi/como-refactorizar-bucles-for-a-intstream-en-java-30o3)
 - [Pattern Matching con Records en Java](https://dev.to/asjordi/pattern-matching-con-records-en-java-5385)
 - [Pattern Matching en Java](https://dev.to/asjordi/pattern-matching-en-java-3fb2)
 - [Clases anidadas en Java](https://dev.to/asjordi/clases-anidadas-en-java-48ih)
-- [Switch Expression en Java](https://dev.to/asjordi/switch-expression-en-java-3ak9)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
