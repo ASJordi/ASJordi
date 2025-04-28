@@ -100,10 +100,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bucle for a IntStream con iterate en Java](https://dev.to/asjordi/bucle-for-a-intstream-con-iterate-en-java-2o74)
 - [Cómo refactorizar bucles for a IntStream en Java](https://dev.to/asjordi/como-refactorizar-bucles-for-a-intstream-en-java-30o3)
 - [Pattern Matching con Records en Java](https://dev.to/asjordi/pattern-matching-con-records-en-java-5385)
 - [Pattern Matching en Java](https://dev.to/asjordi/pattern-matching-en-java-3fb2)
-- [Clases anidadas en Java](https://dev.to/asjordi/clases-anidadas-en-java-48ih)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
