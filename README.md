@@ -100,10 +100,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Convertir un forEach con if a un Stream con filter en Java](https://dev.to/asjordi/convertir-un-foreach-con-if-a-un-stream-con-filter-en-java-3okl)
 - [Bucle for a IntStream con iterate en Java](https://dev.to/asjordi/bucle-for-a-intstream-con-iterate-en-java-2o74)
 - [Cómo refactorizar bucles for a IntStream en Java](https://dev.to/asjordi/como-refactorizar-bucles-for-a-intstream-en-java-30o3)
 - [Pattern Matching con Records en Java](https://dev.to/asjordi/pattern-matching-con-records-en-java-5385)
-- [Pattern Matching en Java](https://dev.to/asjordi/pattern-matching-en-java-3fb2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
