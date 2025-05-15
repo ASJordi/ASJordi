@@ -14,7 +14,7 @@
 * 🌎 `I'm from`: **Mexico**,
 * 🌱 `I'm currently learning`: **React, Bootstrap, TypeScript**,
 * 💻 `Favorite lang`: **Java**,
-* 📫 `Contact me at`: **jord7as@gmail.com**,
+* 📫 `Contact me at`: **ejordi.ayala@gmail.com**,
 * 📄 `Know about my experiences on`: **[my personal web](https://asjordi.dev)**,
 * 📝 `I regularly write articles on`: **[Dev.to](https://dev.to/asjordi)**
 
