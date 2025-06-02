@@ -100,10 +100,10 @@
 <h2 align="center">📝 Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo escribir DTOs en Java](https://dev.to/asjordi/como-escribir-dtos-en-java-1b02)
 - [Tips para escribir mejor código en Java](https://dev.to/asjordi/tips-para-escribir-mejor-codigo-en-java-h4l)
 - [Convertir Data Sources a Streams en Java](https://dev.to/asjordi/convertir-data-sources-a-streams-en-java-56ec)
 - [Convertir elementos usando map en Java](https://dev.to/asjordi/convertir-elementos-usando-map-en-java-f28)
-- [Convertir un forEach con if a un Stream con filter en Java](https://dev.to/asjordi/convertir-un-foreach-con-if-a-un-stream-con-filter-en-java-3okl)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
