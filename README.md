@@ -108,6 +108,12 @@
 
 <br>
 
+<h2 align="center">📊 Recent Activity</h2>
+
+<!--RECENT_ACTIVITY:start-->
+
+<br>
+
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <p align="center">Take a look at my most outstanding repositories.</p>
