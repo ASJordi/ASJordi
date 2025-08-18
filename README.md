@@ -112,10 +112,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-2. ⬆️ Pushed 1 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-3. ⬆️ Pushed 7 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. ⬆️ Pushed 1 commit(s) to [ASJordi/codewars](https://github.com/ASJordi/codewars)<br>
-5. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+2. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+3. 💬 Commented on [#2778](https://github.com/ASJordi/website-activity-status/issues/2778#issuecomment-3195156600) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+4. ✔️ Closed issue [#2778](https://github.com/ASJordi/website-activity-status/issues/2778) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+5. 💬 Commented on [#2777](https://github.com/ASJordi/website-activity-status/issues/2777#issuecomment-3195156537) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
