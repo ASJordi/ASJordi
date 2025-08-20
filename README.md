@@ -111,11 +111,11 @@
 <h2 align="center">📊 Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ASJordi/codewars](https://github.com/ASJordi/codewars)<br>
+1. ⬆️ Pushed 2 commit(s) to [ASJordi/qr-generator](https://github.com/ASJordi/qr-generator)<br>
 2. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 3. ⬆️ Pushed 1 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. 💬 Commented on [#2783](https://github.com/ASJordi/website-activity-status/issues/2783#issuecomment-3200808954) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. ✔️ Closed issue [#2783](https://github.com/ASJordi/website-activity-status/issues/2783) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+4. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+5. ⬆️ Pushed 1 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
