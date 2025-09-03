@@ -112,10 +112,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ASJordi/codewars](https://github.com/ASJordi/codewars)<br>
-2. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-3. ⬆️ Pushed 1 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. ✔️ Closed issue [#2803](https://github.com/ASJordi/website-activity-status/issues/2803) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. 💬 Commented on [#2803](https://github.com/ASJordi/website-activity-status/issues/2803#issuecomment-3240827544) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+2. ⬆️ Pushed 1 commit(s) to [ASJordi/codewars](https://github.com/ASJordi/codewars)<br>
+3. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+4. ⬆️ Pushed 1 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+5. ✔️ Closed issue [#2803](https://github.com/ASJordi/website-activity-status/issues/2803) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
