@@ -113,9 +113,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 2. ⬆️ Pushed 1 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-3. ✔️ Closed issue [#2839](https://github.com/ASJordi/website-activity-status/issues/2839) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. 💬 Commented on [#2839](https://github.com/ASJordi/website-activity-status/issues/2839#issuecomment-3312928466) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+3. ⬆️ Pushed 7 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+4. ⬆️ Pushed 2 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+5. ⬆️ Pushed 1 commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
