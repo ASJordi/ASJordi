@@ -114,8 +114,8 @@
 1. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 2. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 3. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+4. ⭐ Starred [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)<br>
+5. ⬆️ Pushed undefined commit(s) to [ASJordi/personal-website](https://github.com/ASJordi/personal-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
