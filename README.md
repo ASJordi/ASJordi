@@ -114,8 +114,8 @@
 1. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 2. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 3. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. ⭐ Starred [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)<br>
-5. ⬆️ Pushed undefined commit(s) to [ASJordi/personal-website](https://github.com/ASJordi/personal-website)<br>
+4. ⭐ Starred [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)<br>
+5. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
