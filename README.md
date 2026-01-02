@@ -113,9 +113,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 2. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-3. ✔️ Closed issue [#2995](https://github.com/ASJordi/website-activity-status/issues/2995) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. 💬 Commented on [#2995](https://github.com/ASJordi/website-activity-status/issues/2995#issuecomment-3703185894) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. ✔️ Closed issue [#2994](https://github.com/ASJordi/website-activity-status/issues/2994) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+3. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+4. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+5. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
