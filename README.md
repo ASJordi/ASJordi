@@ -115,7 +115,7 @@
 2. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 3. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 4. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+5. ❗️ Opened issue [#3113](https://github.com/ASJordi/website-activity-status/issues/3113) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
