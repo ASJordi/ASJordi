@@ -111,11 +111,11 @@
 <h2 align="center">📊 Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [emdash-cms/emdash](https://github.com/emdash-cms/emdash)<br>
+1. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 2. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 3. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-4. 💬 Commented on [#3214](https://github.com/ASJordi/website-activity-status/issues/3214#issuecomment-4181591082) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. ✔️ Closed issue [#3214](https://github.com/ASJordi/website-activity-status/issues/3214) in [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+4. ⭐ Starred [emdash-cms/emdash](https://github.com/emdash-cms/emdash)<br>
+5. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
