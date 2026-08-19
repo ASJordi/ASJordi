@@ -111,11 +111,11 @@
 <h2 align="center">📊 Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+1. ⬆️ Pushed undefined commit(s) to [ASJordi/personal-website](https://github.com/ASJordi/personal-website)<br>
 2. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 3. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
 4. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
-5. ⬆️ Pushed undefined commit(s) to [ASJordi/website-activity-status](https://github.com/ASJordi/website-activity-status)<br>
+5. ✔️ Closed issue [#129](https://github.com/ASJordi/personal-website/issues/129) in [ASJordi/personal-website](https://github.com/ASJordi/personal-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
